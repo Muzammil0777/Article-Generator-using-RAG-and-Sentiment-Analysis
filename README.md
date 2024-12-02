@@ -158,7 +158,8 @@ MIT License. See `LICENSE` for details.
 ## Contact
 
 Your Name - [@muzammil0777](https://github.com/muzammil0777)
-Project Link: (https://github.com/Muzammil0777/Blog-Generation-AI-tool)
+
+Project Link: (https://github.com/Muzammil0777/Article-Generator-using-RAG-and-Sentiment-Analysis)
 
 
 ---
