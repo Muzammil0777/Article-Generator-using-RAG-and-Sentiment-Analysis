@@ -157,16 +157,9 @@ MIT License. See `LICENSE` for details.
 
 ## Contact
 
-Your Name - [@yourgithub](https://github.com/yourgithub)
-Project Link: [https://github.com/yourusername/article-generator-rag](https://github.com/yourusername/article-generator-rag)
+Your Name - [@muzammil0777](https://github.com/muzammil0777)
+Project Link: (https://github.com/Muzammil0777/Blog-Generation-AI-tool)
 
-## Support
-
-For support:
-1. Check existing issues
-2. Create new issue with details
-3. Contact maintainers
-4. Join community discussions
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Muzammil Muzaffar]
